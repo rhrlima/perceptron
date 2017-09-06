@@ -54,4 +54,4 @@ Also, during the execution the user can interact with the classifier with:
 
 ## Example
 
-![Example](rhrlima.github.com/perceptron.git/img/ex1.png)
+![Example](https://raw.githubusercontent.com/rhrlima/perceptron/master/img/ex1.png)
