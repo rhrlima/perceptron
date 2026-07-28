@@ -1,5 +1,7 @@
 # Perceptron
 
+- Still working with Pygame 2.6.1!
+
 Implementation of the Perceptron classifier using Pygame to display the learning and classification process.
 
 This code was created following the videos from the [Coding Train](https://www.youtube.com/user/shiffman) channel.
@@ -9,14 +11,6 @@ This code was created following the videos from the [Coding Train](https://www.y
 Instructions needed to run the project.
 
 ### Prerequisites
-
-This code requires Python3 and Pygame to run.
-
-### Installing
-
-* [Python3](https://www.python.org/download/releases/3.0/) - Python Website.
-
-* [Pip](https://pip.pypa.io/en/stable/installing/) - Package Installer for Python.
 
 * [Pygame](https://www.pygame.org/news) - The Pygame library website.
 
